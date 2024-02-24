@@ -1,0 +1,26 @@
+{
+  "name": "npm_maker",
+  "version": "1.0.0",
+  "description": "a npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitsingh2775/as_currency_converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "amit kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/amitsingh2775/as_currency_converter/issues"
+  },
+  "homepage": "https://github.com/amitsingh2775/as_currency_converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
